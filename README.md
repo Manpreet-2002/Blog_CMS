@@ -4,6 +4,10 @@
 
 In this project I learnt how to use Hardhat blockchain development environment as well as ethers.js library to communicate with the deployed instance of the smart contract. I also gained experience of using the Polygon Mumbai testnet and insights to production quality next.js applications.
 
+I also learnt about how to use GraphQL and initialized a new subgraph the details can be found out in the blog-cms directory. 
+
+This project was done with reference to Nader Dabit's Tutorial- https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74
+
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
 Try running some of the following tasks:

@@ -1,4 +1,4 @@
-# Basic Sample Hardhat Project
+# Blog CMS Hardhat Project
 
 ![Blog-CMS](https://user-images.githubusercontent.com/79961524/165349615-4bef536f-e45f-46bc-9255-e821cb71b2d5.png)
 
